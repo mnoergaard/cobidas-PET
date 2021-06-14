@@ -52,7 +52,7 @@ We are currently working on trying to expand the number of items used in the che
 
 - The MRI spreadsheet is accessible [here](https://docs.google.com/spreadsheets/d/1dCXP0MTK3DjY09ZFd7FXgv0Ngx16_YJwVBiXOeQbTho/edit?usp=sharing)
 - The M/EEG spreadsheet is accessible [here](https://docs.google.com/spreadsheets/d/1OhkmbtgIWdFxSVjpu6A8PWoAuqev0jY-98GFQlwBCy0/edit?usp=sharing)
-- The M/EEG spreadsheet is accessible [here](https://docs.google.com/spreadsheets/d/1HS-1KOP8nE7C3MHiyRmQ6hd823cBZnCRVq0UryXvDc8/edit?usp=sharing)
+- The PET spreadsheet is accessible [here](https://docs.google.com/spreadsheets/d/1HS-1KOP8nE7C3MHiyRmQ6hd823cBZnCRVq0UryXvDc8/edit?usp=sharing)
 
 For more information on the content and organization of these spreadsheets, see the dedicated [document](https://github.com/Remi-Gau/COBIDAS_chckls/blob/master/spreadsheet_content.md)
 
